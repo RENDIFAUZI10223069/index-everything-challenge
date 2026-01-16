@@ -1,11 +1,5 @@
 # index-everything-challenge
 An open-source challenge where everyone contributes one unique index.&lt;ext> file. Any language, any format, no duplicate extensions.
-# 🌍 Index Everything Challenge
-
-Sebuah challenge open-source sederhana tapi unik:
-**buat satu file dengan nama `index.<ext>` dan pastikan ekstensi tidak sama dengan peserta lain.**
-
-Bahasa pemrograman, format file, dan isi sepenuhnya bebas 🚀
 
 ---
 
