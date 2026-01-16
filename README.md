@@ -40,6 +40,29 @@ An open-source challenge where everyone contributes one unique index.&lt;ext> fi
 
 ---
 
+## 🎨 Syarat Tambahan (WAJIB) – Icon File
+
+Agar challenge lebih seru dan konsisten, setiap file **WAJIB menampilkan icon khusus** di VS Code.
+
+### 📌 Ketentuan Icon
+- Gunakan ekstensi **Material Icon Theme** di VS Code
+- File harus:
+  - Memiliki **ikon berbeda**
+  - Ikon muncul otomatis berdasarkan **ekstensi file**
+- Ekstensi yang tidak memiliki icon unik **tidak disarankan**
+
+📷 Contoh tampilan icon yang valid:
+
+> File `index.c`, `index.cpp`, `index.bin`, `index.astro`, dll  
+> masing-masing memiliki icon berbeda di VS Code
+
+---
+
+### 🧩 Cara Memenuhi Syarat Ini
+
+1. Install ekstensi VS Code:
+
+
 ## 📂 Contoh File Valid
 
 | File Name     | Jenis |
